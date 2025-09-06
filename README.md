@@ -33,8 +33,18 @@ Software Development – GPA: 86 (Distinction)
 - **Sinethemba High School** (Dec 2021)
 Matric – NQF Level 4
 
+## Technical Skills
 
+- Web Development
+- Software Development Fundamentals
+- UI/UX Design
+- Git & Version Control
+- Responsive Design (Tailwind CSS, HTML, CSS)
+- Team Collaboration
 
 
 ### Link to Resume
 [Your Google Docs Resume](https://resumegenius.com/rsm-link/951f1697-8818-4a7d-8f14-c05dff61fffe/ff99aa08-0a43-4985-bba1-ef99a47d944c)
+
+This README represents both my professional journey and technical growth as I transition into the tech industry.
+
